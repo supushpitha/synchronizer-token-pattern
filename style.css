@@ -1,0 +1,27 @@
+.box {
+    width: 500px;
+    margin: 300px 0;
+}
+
+.shape1{
+   	position: absolute;
+	display: inline-block;
+	top: 210px;
+	bottom: 50px;
+	left: 60px;
+    height: 400px;
+    width: 400px;
+    background-color: #A0A0A0;
+    border-radius: 20px;
+    float: left;
+    margin-right: 50px;
+}
+
+.float {
+    position: absolute;
+    z-index: 2;
+}
+
+.form {
+    margin-left: 145px;
+}
