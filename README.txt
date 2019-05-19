@@ -2,7 +2,7 @@ IT17127356
 Synchroizer Token Pattern
 
 REQUIREMENTS >>
-WAP Server
+WAMP Server
 
 HOW TO RUN >>
 1. Copy/Extract all files to C:\wamp64\www
